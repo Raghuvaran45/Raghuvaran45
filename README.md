@@ -13,17 +13,21 @@
 <img src="profile.png" width="155" alt="Raghuvaran Raya profile photo"/>
 
 </td>
+
 <td width="77%" valign="middle">
 
 <h1>Hi 👋, I'm <span>Raghuvaran Raya</span></h1>
 
-<h3>Computer Science Engineering Student | Machine Learning | LLM & RAG Applications</h3>
+<h3>
+Computer Science Engineering Student |
+Machine Learning |
+LLM & RAG Applications
+</h3>
 
-<a href="https://komarev.com/ghpvc/?username=Raghuvaran45">
 <img src="https://komarev.com/ghpvc/?username=Raghuvaran45&label=Profile%20Views&color=007bff&style=flat" alt="Profile Views"/>
-</a>
 
 </td>
+
 </tr>
 </table>
 
