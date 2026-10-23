@@ -183,8 +183,8 @@ Analyzed FIFA player and team performance data using SQL to extract insights and
 SQL, Database Management, Data Analysis
 
 <p align="center">
-<a href="https://github.com/Raghuvaran45">
-<img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Raghuvaran45/FIFA-DATABASE-ANALYSIS">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
