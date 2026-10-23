@@ -10,7 +10,7 @@
 <tr>
 <td width="23%" align="center" valign="middle">
 
-<img src="profile.jpeg" width="155" alt="Raghuvaran Raya profile photo"/>
+<img src="profile.png" width="155" alt="Raghuvaran Raya profile photo"/>
 
 </td>
 <td width="77%" valign="middle">
